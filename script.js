@@ -21,7 +21,7 @@ function toggleMode() {
   } else {
     img.setAttribute(
       "alt",
-      "Foto de Paulo Martins com a cabeça de lado, usando um bone, uma camisa preta, um short branco, com uma bolsa rosa de croche de sua amiga e segurando uma água voss. "
+      "Foto de Paulo Martins com a cabeça de lado, usando um bone, uma camisa preta, um short branco, com uma bolsa rosa que pertence a sua amiga e segurando uma água voss. "
     )
   }
 }
